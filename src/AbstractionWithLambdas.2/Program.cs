@@ -7,7 +7,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using NLog;
 
-namespace AbstractionWithLambdas._2 {
+namespace AbstractionWithLambdas {
   internal static class Program {
     
     // This is still BAD PRACTICE.
